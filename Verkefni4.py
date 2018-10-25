@@ -43,4 +43,4 @@ def villa(error):
 try:
     bottle.run(host="8.8.8.8", port=os.environ.get('PORT'))
 except:
-    run(debub=True)
+    run(debug=True)
