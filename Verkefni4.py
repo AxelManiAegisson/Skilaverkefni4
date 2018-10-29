@@ -7,7 +7,7 @@ print(gogn)
 @route("/")
 def index():
     return  """
-    <h2> Verkefni 3 </h2>
+    <h2> Verkefni 4 </h2>
     <p><a href="/a"> Json Local </a></p>
     <p><a href="/b"> Json af API.is </a></p>
     """
